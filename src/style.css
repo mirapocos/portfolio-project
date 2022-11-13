@@ -37,16 +37,11 @@ p {
   line-height: 30px;
 }
 
-.img {
-  border: none;
-  border-radius: 20px;
-}
-
 .hero {
   text-align: center;
   padding: 140px 20px;
   background-color: var(--secondary-color);
-  background-image: url("/images/colorful-florals.png");
+  background-image: url("/images/pink-watercolor.png");
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: 30%;
@@ -119,7 +114,7 @@ p {
 }
 
 .logo {
-  max-width: 65px;
+  max-width: 120px;
 }
 
 nav {
